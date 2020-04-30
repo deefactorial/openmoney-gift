@@ -131,7 +131,7 @@
     "bootstrap-colorpicker": "^2.3.6",
     "browsernizr": "^2.1.0",
     "buffer": "^4.7.0",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "jquery-ui": "^1.10.5",
     "jquery-validation": "^1.15.0",
     "jquery.browser": "^0.1.0",
